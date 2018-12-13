@@ -1,1 +1,1 @@
-# projecy-euler-solutions
+# project-euler-solutions
